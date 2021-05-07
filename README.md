@@ -3,7 +3,7 @@
 This Repository contains the datasets for a data science project taken as part of a Newcastle University course.
 
 
-##Citation
+## Citation
 Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
   Please include this citation if you plan to use this database:
